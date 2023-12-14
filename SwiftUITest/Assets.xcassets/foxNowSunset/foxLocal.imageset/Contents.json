@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "foxLocal.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
